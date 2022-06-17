@@ -1,4 +1,4 @@
-# giraffe_code_review
+# giraffe code review
 # GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields
 
 Cite the Giraffe paper:
